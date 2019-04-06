@@ -1,3 +1,3 @@
 FROM BUSYBOX
-user 100001
-CMD ["echo", "Hola Docker"]
+USER 100001
+CMD ["echo", "Hola Docker"] 
